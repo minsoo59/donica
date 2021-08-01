@@ -1,0 +1,42 @@
+header {
+  margin-bottom: 150px;
+  div {
+    @extend %mainText;
+  }
+}
+main {
+  margin-bottom: 80px;
+  div {
+    padding: 20px 0 15px 0;
+    display: grid;
+    grid-template-columns: 1fr 4fr 6.5fr;
+    &.portfolio__menu > span {
+      @extend %tinyText;
+    }
+    &.portfolio__items {
+      border-top: 1px solid $letter;
+      cursor: pointer;
+      > span {
+        @extend %itemsText;
+      }
+      &:hover {
+        font-style: italic;
+      }
+    }
+  }
+}
+.education {
+  margin-bottom: 75px;
+}
+.education,
+.about {
+  font-size: 30px;
+  line-height: 1.6;
+  font-weight: 100;
+  & > span {
+    @extend %tinyText;
+  }
+}
+.about > a {
+  color: $letter;
+}

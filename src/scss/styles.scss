@@ -1,0 +1,15 @@
+// reset
+@import "./config/_reset";
+@import url("https://fonts.googleapis.com/css?family=Nunito|PT+Serif:400,400i&display=swap");
+
+// config
+@import "./config/_variables";
+@import "./config/_element";
+
+// screens
+@import "./screens/App.scss";
+
+body {
+  color: $letter;
+  padding: 40px;
+}
