@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/donica/static/css/main.c3828198.chunk.css",
+    "main.js": "/donica/static/js/main.cd288604.chunk.js",
+    "main.js.map": "/donica/static/js/main.cd288604.chunk.js.map",
+    "runtime-main.js": "/donica/static/js/runtime-main.8f6d4b15.js",
+    "runtime-main.js.map": "/donica/static/js/runtime-main.8f6d4b15.js.map",
+    "static/js/2.063c4af1.chunk.js": "/donica/static/js/2.063c4af1.chunk.js",
+    "static/js/2.063c4af1.chunk.js.map": "/donica/static/js/2.063c4af1.chunk.js.map",
+    "index.html": "/donica/index.html",
+    "static/css/main.c3828198.chunk.css.map": "/donica/static/css/main.c3828198.chunk.css.map",
+    "static/js/2.063c4af1.chunk.js.LICENSE.txt": "/donica/static/js/2.063c4af1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f6d4b15.js",
+    "static/js/2.063c4af1.chunk.js",
+    "static/css/main.c3828198.chunk.css",
+    "static/js/main.cd288604.chunk.js"
+  ]
+}
